@@ -15,7 +15,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # For calculations
 - I used the math_expression packet.
-- dependencies:
+dependencies:
   flutter:
     sdk: flutter
   math_expressions: ^2.0.0
